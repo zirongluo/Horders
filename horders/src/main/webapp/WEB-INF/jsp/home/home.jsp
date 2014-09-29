@@ -16,6 +16,7 @@ body {
 		filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod='scale');
 	border: 0px;
 	background-size: 100% 100%;
+	overflow-x: scroll;
 }
 
 .left {

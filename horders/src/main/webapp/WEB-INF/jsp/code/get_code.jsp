@@ -400,7 +400,7 @@ body {
 				<h1 class="title">Get code</h1>
 			</div>
 			<div class="bottom">
-			<iframe src="${pageContext.request.contextPath}/page/code/get_code_content.jsp"
+			<iframe src="${pageContext.request.contextPath}/code/get_code_content"
 				name="bottomFrame" id="bottomFrame" frameborder="no" border="0"
 				marginwidth="0" marginheight="0" scrolling="no"
 				allowtransparency="yes" scrolling="auto" width="100%" height="100%"
